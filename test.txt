@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 aaaaa
 in master
+=======
+dev1 ez win
+gaaaaxx
+in develop
+>>>>>>> develop

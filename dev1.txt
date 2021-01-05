@@ -1,4 +1,8 @@
 aasdasdsa
+<<<<<<< HEAD
 in develop
 edit 2 ez
 edit last dsadsa
+=======
+in develop
+>>>>>>> develop
