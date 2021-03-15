@@ -1,9 +1,11 @@
 aasdasdsa
+i make new one
+
 <<<<<<< HEAD
 in developadasdasdas
 
 edit 2 ez
-edit last dsadsa
+edit last dsadsa im he fat
 =======
 in develop
 >>>>>>> develop
